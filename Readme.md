@@ -34,4 +34,4 @@ We have versions of these logos as PNG (in various resolutions), SVG, and PDF. T
 
 ### Guidelines for Vega and Vega-Lite Logos
 
-![Guidelines for Vega and Vega-Lite Logos](assets/guide.png)
+![Guidelines for Vega and Vega-Lite Logos](assets/guides.png)
