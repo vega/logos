@@ -1,6 +1,6 @@
 # Logos for the Vega Project
 
-We have versions of these logos as PNG (in various resolutions), SVG, and PDF. The Vega and Vega-Lite logos have monochrome black and white variants. 
+We have versions of these logos as PNG (in various resolutions), SVG, and PDF. The Vega and Vega-Lite logos have monochrome black and white variants.
 
 ## Vega Project Logo
 
@@ -32,6 +32,14 @@ We have versions of these logos as PNG (in various resolutions), SVG, and PDF. T
 
 - [__Black Logo__](assets/VL_White@128.png)
 
-### Guidelines for Vega and Vega-Lite Logos
+##Guidelines for Vega and Vega-Lite Logos
 
-![Guidelines for Vega and Vega-Lite Logos](assets/guide.png)
+![Guidelines for Vega and Vega-Lite Logos](assets/guides.png)
+
+## Favicon
+
+The Vega Project favicon is at https://github.com/vega/vega.github.io/blob/master/favicon.ico.
+
+```html
+<link rel="shortcut icon" href="https://vega.github.io/favicon.ico" />
+```
