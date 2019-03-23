@@ -32,7 +32,7 @@ We have versions of these logos as PNG (in various resolutions), SVG, and PDF. T
 
 - [__Black Logo__](assets/VL_White@128.png)
 
-##Guidelines for Vega and Vega-Lite Logos
+## Guidelines for Vega and Vega-Lite Logos
 
 ![Guidelines for Vega and Vega-Lite Logos](assets/guides.png)
 
