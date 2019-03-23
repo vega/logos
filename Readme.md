@@ -18,7 +18,7 @@ We have versions of these logos as PNG (in various resolutions), SVG, and PDF. T
 
 ![Vega Logo](assets/VG_Black@128.png)
 
-- [__White Logo__]](assets/VG_White@128.png)
+- [__White Logo__](assets/VG_White@128.png)
 
 ### Vega-Lite 
 
