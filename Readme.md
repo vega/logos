@@ -1,6 +1,6 @@
 # Logos for the Vega Project
 
-We have versions of these logos as PNG (in various resolutions), SVG, and PDF. The Vega and Vega-Lite logos have monochrome black and white variants.
+We have versions of these logos as PNG (in various resolutions), SVG, and PDF. The Vega and Vega-Lite logos have monochrome black and white variants. You can find them all at https://github.com/vega/logos/tree/master/assets. 
 
 ## Vega Project Logo
 
